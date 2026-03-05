@@ -1,1 +1,1 @@
-#hexlet-my-first-workflow
+[![show-directory](https://github.com/MukhinMikhail/hexlet-my-first-workflow/actions/workflows/say-hello.yml/badge.svg?branch=main)](https://github.com/MukhinMikhail/hexlet-my-first-workflow/actions/workflows/say-hello.yml)
